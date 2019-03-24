@@ -1,8 +1,12 @@
 # Sejarah
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/sejarah`. To experiment with that code, run `bin/console` for an interactive prompt.
+`Sejarah` will generate release history from multiple repositories into one list. Releases are grouped by date.
 
-TODO: Delete this and the text above, and describe your gem
+The idea is to make a place where we can monitor releases from multiple repositories in one place. One common use case is for company that is organized with squads or teams to see their releases.
+
+## TODO
+
+- test for `write` task
 
 ## Installation
 

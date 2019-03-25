@@ -1,6 +1,6 @@
 # Sejarah
 
-`Sejarah` will generate release history from multiple repositories into one list. Releases are grouped by date.
+`Sejarah` will generate release history from GitHub's Pull-Request merges on multiple repositories into one list. Releases are grouped by date.
 
 The idea is to make a place where we can monitor releases from multiple repositories in one place. One common use case is for company that is organized with squads or teams to see their releases.
 
